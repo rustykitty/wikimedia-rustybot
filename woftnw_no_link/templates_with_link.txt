@@ -1,0 +1,32 @@
+Template:Ambox
+Template:Based on
+Template:Citation style
+Template:Documentation subpage
+Template:Documentation subpage/en
+Template:Film- and television-related infobox templates
+Template:IncompletePage
+Template:IncompleteSection
+Template:Infobox character
+Template:Localized link
+Template:Main other
+Template:Markup
+Template:Markup/en
+Template:Markup/row
+Template:Markup/row/en
+Template:Mbox
+Template:Mbox templates see also
+Template:Multiple issues
+Template:Ombox
+Template:POV
+Template:Plainlist
+Template:Pp-protected
+Template:Quote
+Template:SDcat
+Template:Short description
+Template:TemplateData header
+Template:TemplateData header/en
+Template:Template link general
+Template:Template link with alternate text
+Template:Tmbox
+Template:Underlinked
+Template:Yesno

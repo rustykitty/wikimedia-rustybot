@@ -1,0 +1,254 @@
+Template:!(
+Template:!((
+Template:!bxt
+Template:!mxt
+Template:!xt
+Template:!xts
+Template:(
+Template:((
+Template:(((
+Template:)
+Template:)!
+Template:))
+Template:))!
+Template:)))
+Template:--
+Template:Advert
+Template:Aligned table
+Template:Anchor
+Template:Authority control/related
+Template:Auto short description
+Template:Auxiliary template common notice
+Template:Block indent
+Template:Block indent/styles.css
+Template:Braces
+Template:Bracket
+Template:Brackets
+Template:Button
+Template:Bxt
+Template:Bxtd
+Template:Bxtg
+Template:Bxtn
+Template:C
+Template:Cascade-protected template
+Template:Category handler
+Template:Category link
+Template:Category link with count
+Template:Category link without namespace
+Template:Cl
+Template:Clc
+Template:Clear
+Template:Cob
+Template:Code
+Template:Codett
+Template:Collapse bottom
+Template:Collapse top
+Template:Cot
+Template:Cross
+Template:Crossref
+Template:Crossreference
+Template:Crossreference/styles.css
+Template:Cs1
+Template:Cs2
+Template:Date
+Template:Dc
+Template:Dc2
+Template:Dcr
+Template:Deprecated code
+Template:Deprecated code 2
+Template:Deprecated code red
+Template:Dir
+Template:Distinguish
+Template:Div col
+Template:Div col/styles.css
+Template:Div col end
+Template:Documentation
+Template:Documentation/en
+Template:Elc
+Template:Em
+Template:Em dash
+Template:Endplainlist
+Template:Escape template list
+Template:FULLBASEPAGENAME
+Template:First word
+Template:Flatlist/styles.css
+Template:Foo other see also
+Template:Fullurl:
+Template:GFDL
+Template:GPL
+Template:Hatnote
+Template:Hatnote inline
+Template:Hidden begin
+Template:Hidden begin/styles.css
+Template:Hidden end
+Template:High-risk
+Template:High-use
+Template:High risk
+Template:High use
+Template:Hlist/styles.css
+Template:If empty
+Template:Ifsubst
+Template:Infobox
+Template:Inline spacing templates
+Template:IsDocSubpage
+Template:Kbd
+Template:Kbd/styles.css
+Template:Key press
+Template:Key press/styles.css
+Template:Key top
+Template:LGPL
+Template:Languages
+Template:Languages/Lang
+Template:Ll
+Template:Localized link/en
+Template:Lorem Ipsum
+Template:Lorem ipsum
+Template:Lua
+Template:Lua sidebar
+Template:Lua sidebar/styles.css
+Template:MIT
+Template:Mbox templates
+Template:Mbox templates (small)
+Template:Ml
+Template:Mlx
+Template:Module link
+Template:Module link expanded
+Template:Module other
+Template:Module rating
+Template:Mono/styles.css
+Template:Mset
+Template:Multiple image
+Template:Multiple image/styles.css
+Template:Multiple issues/styles.css
+Template:Mxt
+Template:Mxtd
+Template:Mxtn
+Template:Namespace and pagename-detecting templates
+Template:Navbar
+Template:Navbar/en
+Template:Navbox
+Template:Nmbox
+Template:Nmbox/styles.css
+Template:No redirect
+Template:No wrap
+Template:Nobold
+Template:Nobold/styles.css
+Template:Normal
+Template:Notice
+Template:Nowiki2
+Template:Nowrap
+Template:Nowrap/styles.css
+Template:Ns has subpages
+Template:Old TfD
+Template:Oldtfdfull
+Template:Other Information
+Template:PAGENAMEBASE
+Template:Pagelang
+Template:Pagetype
+Template:Para
+Template:Param
+Template:Param value
+Template:Parameter names example
+Template:Plainlist/styles.css
+Template:Pp
+Template:Pp-move
+Template:PreCode
+Template:Pvalue
+Template:Q
+Template:Quotation templates see also
+Template:R from modification
+Template:R from move
+Template:R from move/except
+Template:R from shortcut
+Template:R from template shortcut
+Template:R fully-protected
+Template:R fully protected
+Template:R with history
+Template:Rcat shell
+Template:Redirect category shell
+Template:Redirect template
+Template:Remove first word
+Template:Replace
+Template:Resize
+Template:SHORTDESC:Fictional character
+Template:Samp
+Template:Sandbox other
+Template:Section link
+Template:See also
+Template:Semantic markup templates
+Template:Short description/lowercasecheck
+Template:Short description/test
+Template:Shortcut
+Template:Sidebar
+Template:Sp
+Template:Space
+Template:Str endswith
+Template:Str left
+Template:Str number/trim
+Template:String-handling templates
+Template:Strong
+Template:Strongbad
+Template:Stronggood
+Template:Subpage other
+Template:Suppress categories
+Template:T
+Template:Tag
+Template:Talk other
+Template:TemplateDataHeader
+Template:Template for discussion/dated
+Template:Template journal inline
+Template:Template journal inline/arg
+Template:Template journal inline/styles.css
+Template:Template journal parameter
+Template:Template link
+Template:Template link bare
+Template:Template link code
+Template:Template link expanded
+Template:Template link expanded with subst
+Template:Template link null
+Template:Template link with bold
+Template:Template link with link off
+Template:Template link with subst
+Template:Template other
+Template:Template parameter usage
+Template:Terminate sentence
+Template:Testcases other
+Template:Tfm/dated
+Template:Thin space
+Template:Tick
+Template:Tji
+Template:Tjp
+Template:Tl
+Template:Tla
+Template:Tlb
+Template:Tlbare
+Template:Tlc
+Template:Tld
+Template:Tlf
+Template:Tlg
+Template:Tlnull
+Template:Tls
+Template:Tlsc
+Template:Tlx
+Template:Tlxs
+Template:Tnull
+Template:Transclude
+Template:Translatable
+Template:Translatable/en
+Template:Trim
+Template:Unbulleted list
+Template:Used in system
+Template:Uses TemplateStyles
+Template:Var
+Template:Var serif
+Template:Var serif/styles.css
+Template:View
+Template:Warning
+Template:Wikidata entity link
+Template:Xmark
+Template:Xt
+Template:Xt/see also
+Template:Xtag
+Template:Xtd
+Template:Xtn
+Template:Yesno-no
