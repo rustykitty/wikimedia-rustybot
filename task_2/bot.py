@@ -8,11 +8,9 @@ site = pywikibot.Site('en', 'wikipedia')
 
 list_page = pywikibot.Page(site, 'User:Alex 21/sandbox/No episode table')
 
-PAGE_LIMIT = 2
+for page in list_page.linkedPages(namespaces=[0], follow_redirects=True, content=True, total=None):
 
-for page in list_page.linkedPages(namespaces=[0], follow_redirects=True, content=True, total=PAGE_LIMIT or None):
-
-    m: re.Match = None
+    m: re.Match = None # for type hinting purposes only
 
     # MOS:SECTIONORDER
 
@@ -35,13 +33,8 @@ for page in list_page.linkedPages(namespaces=[0], follow_redirects=True, content
     else:
         pos = 0
 
-    pos = min(max(pos, 0), len(page.text))
+    pos = min(max(pos, 0), len(page.text)) # clamp position
 
     page.text = page.text[:pos] + '{{Convert to Episode table}}\n' + page.text[pos:]
 
-    # page.save(summary='Tagging page with {{Template:Convert to Episode table|Convert to Episode table}} (Task 2)')
-
-    fp = open(f'output_{page.title()}.txt', 'w')
-
-    fp.write(page.text)
-    fp.flush()
+    page.save(summary='Tagging page with {{Template:Convert to Episode table|Convert to Episode table}} (Task 2)')
