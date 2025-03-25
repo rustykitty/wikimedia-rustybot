@@ -1,0 +1,182 @@
+{{Short description|American television series}}
+{{Convert to Episode table}}
+{{Use mdy dates|date=March 2025}}
+{{Infobox television
+|image=Dennis Morgan Joanna Barnes 21 Beacon Street 1959.JPG
+|caption=Dennis Morgan and Joanna Barnes
+|starring =Dennis Morgan, Joanna Barnes, Brian Kelly and James Maloney
+|company=[[Filmways]]
+|country=United States
+|language=English
+|runtime=25 minutes
+|network=[[National Broadcasting Company|NBC]]
+|first_aired={{Start date|1959|07|02}}
+|last_aired={{End date|1959|09|24}}
+}}
+
+'''''21 Beacon Street''''' is an American detective television series that originally aired on [[National Broadcasting Company|NBC]] from July 2 to September 10, 1959.
+
+Produced by [[Filmways]],<ref>[https://books.google.com/books?id=iNrdDwAAQBAJ&dq=%2221+Beacon+Street%22&pg=PT208 Irvin, Richard ''The Forgotten Desi and Lucy TV Projects'', Bear Manor Media, 2020]</ref> the summer replacement series for ''[[The Ford Show|The Tennessee Ernie Ford Show]]''{{r|gbtp|page1=146}} consisted of 11 [[black-and-white]] 30-minute episodes. The show starred [[Dennis Morgan]] as private investigator Dennis Chase.  Other cast members included [[Joanna Barnes]], [[Brian Kelly (actor)|Brian Kelly]], and James Maloney.<ref name="directory">Brooks, Tim and Marsh, Earle, ''The Complete Directory to Prime Time Network TV Shows 1946 – Present'' Ballantine Books, 1979, page 647</ref>
+
+The series pilot was broadcast as an episode of ''[[Panic! (TV series)|Panic!]]''.{{r|gbtp|page1=146}} 
+The show aired on Thursdays at 9:30&nbsp;p.m. Eastern Time. Reruns were broadcast on [[American Broadcasting Company|ABC-TV]] on Sundays at 10:30&nbsp;p.m. from December 1959 to March 1960.<ref name="directory" />
+
+Leonard Heideman was the show's creator.<ref name="gbtp">{{cite book |last1=Irvin |first1=Richard |title=George Burns Television Productions: The Series and Pilots, 1950-1981 |date=2014 |publisher=McFarland |isbn=978-1-4766-1621-6 |page=147 |url=https://books.google.com/books?id=CuTDAwAAQBAJ&q=%22rounded+out+the+cast.+McCadden+Productions+loaned%22&pg=PA147 |access-date=May 3, 2020 |language=en}}</ref> The series' first episode was "The Rub-Out".<ref>{{cite news |last1=Cain |first1=Ira |title=New Cop-Crook Series to Premiere |url=https://www.newspapers.com/clip/50105849/fort-worth-star-telegram/ |access-date=May 3, 2020 |work=Fort Worth Star-Telegram |date=July 2, 1959 |location=Texas, Fort Worth |page=28|via = [[Newspapers.com]]}}</ref>
+
+==Premise==
+Dennis Chase was a private investigator with an office on 21 Beacon Street, in an unspecified city.<ref name="directory" /> Chase was aided by [[Joanna Barnes]] as Joanna, who was a combination of beauty and brains. She was able to glean information and then act as a decoy. [[Brian Kelly (actor)|Brian Kelly]] was Brian, a young law school graduate; and James Maloney played Jim, an expert on dialects, as well as a skilled craftsman.<ref>[https://www.newspapers.com/image/690271785/?terms=%2221%20Beacon%20Street%22&match=1 21 Beacon Street Is New Half Hour Crime Series, ''The Modesto Bee'', June 28, 1959, page 41]</ref>
+
+Chase and his assistants worked to discover who the criminals were, but then notified the police to come and apprehend the law breakers.<ref name="directory" />
+
+==Forerunner to Mission Impossible==
+The producers of [[Mission: Impossible (1966 TV series)|''Mission: Impossible'']] were sued for plagiarism by the creators of ''21 Beacon Street.'' The suit was settled out of court. [[Bruce Geller]] claimed never to have seen the earlier show; ''Beacon Street's'' story editor and pilot scripter, Laurence Heath, would later write several episodes of ''Mission: Impossible.''<ref>{{Citation | first = Patrick J | last = White | title = The Complete Mission: Impossible Dossier | place = New York | publisher = Avon Books | year = 1991 | isbn=978-0380758777 | oclc=24914321 |pages=8–9 }}</ref>
+
+==Episodes==
+The following is a list of episodes.
+{| class="wikitable" style="background:#fff;"
+|- style="color:white"
+! style="background:#515151"| No. 
+! style="background:#515151"| Title
+! style="background:#515151"| Directed by
+! style="background:#515151"| Written by
+! style="background:#515151"| Original air date
+{{Episode list
+ |EpisodeNumber=1
+ |Title=The Rub Out
+ |DirectedBy=[[Maurice Geraghty]]
+ |WrittenBy=Robert C. Dennis
+ |OriginalAirDate={{Start date|1959|7|2}}
+ |ShortSummary=
+ |LineColor =
+}}
+{{Episode list
+ |EpisodeNumber=2
+ |Title=Safety Deposit
+ |DirectedBy=[[Harold Schuster]]
+ |WrittenBy={{StoryTeleplay|s= [[John Meredyth Lucas]] |t= Leonard Heideman}}
+ |OriginalAirDate={{Start date|1959|7|9}}
+ |ShortSummary=
+ |LineColor =
+}}
+{{Episode list
+ |EpisodeNumber=3
+ |Title=The Payoff
+ |DirectedBy=[[Maurice Geraghty]]
+ |WrittenBy=[[Tom Gries]]
+ |OriginalAirDate={{Start date|1959|7|16}}
+ |ShortSummary=
+ |LineColor =
+}}
+{{Episode list
+ |EpisodeNumber=4
+ |Title=Double Vision
+ |DirectedBy=[[Jean Yarbrough]]
+ |WrittenBy={{StoryTeleplay|s=Jack Kelsey |t=Jack Kelsey and Leonard Heideman}}
+ |OriginalAirDate={{Start date|1959|7|23}}
+ |ShortSummary=
+ |LineColor =
+}}
+{{Episode list
+ |EpisodeNumber=5
+ |Title=The Swindle
+ |DirectedBy=[[Maurice Geraghty]]
+ |WrittenBy={{StoryTeleplay|s= [[Orville H. Hampton]] |t= Leonard Heideman}}
+ |OriginalAirDate={{Start date|1959|7|30}}
+ |ShortSummary=
+ |LineColor =
+}}
+{{Episode list
+ |EpisodeNumber=6
+ |Title=The Execution
+ |DirectedBy=[[Jean Yarbrough]]
+ |WrittenBy=[[John Meredyth Lucas]]
+ |OriginalAirDate={{Start date|1959|8|6}}
+ |ShortSummary=
+ |LineColor =
+}}
+{{Episode list
+ |EpisodeNumber=7
+ |Title=Break In
+ |DirectedBy=[[Maurice Geraghty]]
+ |WrittenBy=Leonard Heideman
+ |OriginalAirDate={{Start date|1959|8|13}}
+ |ShortSummary=
+ |LineColor =
+}}
+{{Episode list
+ |EpisodeNumber=8
+ |Title=The Trojan Horse
+ |DirectedBy=[[Maurice Geraghty]]
+ |WrittenBy=Betty Halsey
+ |OriginalAirDate={{Start date|1959|8|20}}
+ |ShortSummary=
+ |LineColor =
+}}
+{{Episode list
+ |EpisodeNumber=9
+ |Title=The Hostage
+ |DirectedBy=[[Jean Yarbrough]]
+ |WrittenBy={{StoryTeleplay|s=[[David Chandler (writer)|David Chandler]] |t=[[Jack Laird]]}}
+ |OriginalAirDate={{Start date|1959|8|27}}
+ |ShortSummary=
+ |LineColor =
+}}
+{{Episode list
+ |EpisodeNumber=10
+ |Title=The Trap
+ |DirectedBy=Val Raset
+ |WrittenBy={{StoryTeleplay|s=Fenton Earnshaw |t=Leonard Heideman and Fenton Earnshaw}}
+ |OriginalAirDate={{Start date|1959|9|3}}
+ |ShortSummary=
+ |LineColor =
+}}
+{{Episode list
+ |EpisodeNumber=11
+ |Title=Dilemma
+ |DirectedBy=[[Jean Yarbrough]]
+ |WrittenBy=Leonard Heideman
+ |OriginalAirDate={{Start date|1959|9|10}}
+ |ShortSummary=
+ |LineColor =
+}}
+{{Episode list
+ |EpisodeNumber=12
+ |Title=Nothing is Impossible
+ |DirectedBy=Val Raset
+ |WrittenBy={{StoryTeleplay|s= [[Clayton Rawson]] |t= Leonard Heideman}}
+ |OriginalAirDate={{Start date|1959|9|17}}
+ |ShortSummary=
+ |LineColor =
+}}
+{{Episode list
+ |EpisodeNumber=13
+ |Title=Close Call
+ |DirectedBy=[[Harold Schuster]]
+ |WrittenBy=Leonard Heideman
+ |OriginalAirDate={{Start date|1959|9|24}}
+ |ShortSummary=
+ |LineColor =
+}}
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb title|0052439}}
+*[https://cimaclub.online/video/ Cimaclub Online]
+*[https://www.tvobscurities.com/2023/03/classicflix-bringing-21-beacon-street-nbc-1959-dvd-june-27/ 21 Beacon Street on DVD]
+
+[[Category:1959 American television series debuts]]
+[[Category:1959 American television series endings]]
+[[Category:1950s American crime television series]]
+[[Category:Black-and-white American television shows]]
+[[Category:American English-language television shows]]
+[[Category:Television shows set in Boston]]
+[[Category:American detective television series]]
+[[Category:Television series by MGM Television]]
+[[Category:Television series by Filmways]]
+[[Category:NBC television dramas]]
+
+
+{{US-drama-tv-prog-stub}}

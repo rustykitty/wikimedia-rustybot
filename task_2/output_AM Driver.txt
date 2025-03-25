@@ -1,0 +1,803 @@
+{{Short description|Japanese anime television series}}
+{{Convert to Episode table}}
+{{More citations needed|date=March 2023}}
+{{Infobox animanga/Header
+| image           = AM Driver.jpg
+| image_size      = 230px
+| caption         = Cover for North American DVD
+| ja_kanji        = Get Ride! アムドライバー
+| ja_romaji       = Get Ride! Amu Doraibā
+| genre           = [[Mecha]], [[Drama]]
+}}
+{{Infobox animanga/Video
+| type            = tv series
+| director        = [[Yūji Yamaguchi]]
+| producer        = Norio Yamagawa<br>Masanori Miyake
+| writer          = Satoshi Namiki
+| music           = Kazunori Maruyama
+| studio          = [[Studio Deen]]
+| network         = [[TV Tokyo]]
+| licensee        = {{English anime licensee
+| NA = [[Illumitoon Entertainment]]<br>Westlake Entertainment
+}}
+| first           = April 5, 2004
+| last            = March 28, 2005
+| episodes        = 51
+| episode_list    = #List of episodes
+}}
+{{Infobox animanga/Print
+| type            = manga
+| author          = Noriyuki Konishi
+| publisher       = [[Shogakukan]]
+| magazine        = [[CoroCoro Comic]]
+| demographic     = [[shōnen manga|''Shōnen'']]
+| first           = June 2004
+| last            = February 2005
+| volumes         = 1
+}}
+{{Infobox animanga/Game
+| title           = Get Ride! Amdriver: Senkō no Hero Tanjō!
+| publisher       = [[Konami]]
+| genre           = [[Tactical role-playing game]]
+| platforms       = [[Game Boy Advance]]
+| released        = {{vgrelease|JP|July 22, 2004<ref>{{Cite web|url=http://www.nintendo.co.jp/n08/software/bgij/index.html|title=GetRide！アムドライバー 閃光のヒーロー誕生！|access-date=2023-03-04|archive-date=2012-03-15|archive-url=https://web.archive.org/web/20120315094220/http://www.nintendo.co.jp/n08/software/bgij/index.html|url-status=bot: unknown}}</ref>}} 
+}}
+{{Infobox animanga/Game
+| title           = Get Ride! Amdriver: Shutsugeki! Battle Party
+| publisher       = [[Konami]]
+| genre           = [[Party game]]
+| platforms       = [[Game Boy Advance]]
+| released        = {{vgrelease|JP|December 16, 2004<ref>{{Cite web|url=http://www.nintendo.co.jp/n08/software/bgpj/index.html|title=Ｇｅｔ Ｒｉｄｅ！アムドライバー 出撃！バトルパーティー|access-date=2023-03-04|archive-date=2012-02-29|archive-url=https://web.archive.org/web/20120229210156/http://www.nintendo.co.jp/n08/software/bgpj/index.html|url-status=bot: unknown}}</ref>}} 
+}}
+{{Infobox animanga/Game
+| title           = Get Ride! Amdriver: Sōkoku no Shinjitsu
+| publisher       = [[Konami]]
+| genre           = [[Action game]]
+| platforms       = [[PlayStation 2]]
+| released        = {{vgrelease|JP|March 10, 2005<ref>{{Cite web|url=http://www.konami.jp/gs/ps2/amdriver/index.html|title=Get Ride! アムドライバー ～相克の真実～|access-date=2023-03-04|archive-date=2005-02-05|archive-url=https://web.archive.org/web/20050205235742/http://www.konami.jp/gs/ps2/amdriver/index.html|url-status=bot: unknown}}</ref>}} 
+}}
+{{Infobox animanga/Footer}}
+
+'''''AM Driver''''', known in Japan as {{nihongo|'''''Get Ride! Amdriver'''''|Get Ride! アムドライバー|Get Ride! Amu Doraibā}}, is an [[anime]] series produced by [[Studio Deen]], [[TV Tokyo]] and [[Nihon Ad Systems]]. It is directed by [[Yūji Yamaguchi]], with Satoshi Namiki handling series composition, [[Eiji Suganuma]] designing the characters and Kazunori Maruyama composing the music. The series aired on TV Tokyo and its affiliate stations from April 5, 2004 to March 28, 2005. A manga adaptation by Noriyuki Konishi was serialized in ''[[CoroCoro Comic]]'' from the June 2004 issue to the February 2005 issue. Two [[Game Boy Advance]] games and one [[PlayStation 2]] game published by [[Konami]] have also been released.
+
+The series was the first completely original work produced by Nihon Ad Systems, who have previously only produced works based on manga and video games. As a result of various planning discussions, it was decided to develop a life-size hero with the concept of a person "putting on" a [[mecha]] by having a person in a power suit board the mecha and transforming and combining with the mecha, rather than a robot.
+
+==Plot==
+The story takes place in the future world of Earth, which has been under attack by mechanical life forms known as "bugchines" for several years. The masses were living in fear, as no weaponry could stand up to the bugchines. To turn back this menace, warriors called AM Drivers are trained and armed with special weapons. The AM Drivers constantly fight to protect the general public. The most popular AM Drivers get larger budgets with which they may purchase more powerful weapons and defenses.
+
+==Characters==
+===Pure AM Driver===
+====Current Member====
+
+;{{nihongo|Jenus Dira|ジェナス・ディラ|Jenasu Dira}}
+:{{Voiced by|[[Kōsuke Kujirai]]}}
+:
+
+;{{nihongo|Ragna Laurairia|ラグナ・ラウレリア|Raguna Raureria}}
+:{{Voiced by|[[Masaya Matsukaze]]}}
+:
+
+;{{nihongo|Sera May|セラ・メイナード|Sera Meinādo}}
+:{{Voiced by|[[Risa Mizuno]]}}
+:
+
+;{{nihongo|Dark Kalhole|ダーク・カルホール|Dāku Karuhōru}}
+:{{Voiced by|[[Teruaki Ogawa]]}}
+:
+
+;{{nihongo|Taft Krema|タフト・クレマー|Tafuto Kuremā}}
+:{{Voiced by|[[Isshin Chiba]]}}
+:
+
+;{{nihongo|Paf Shining|パフ・シャイニン|Pafu Shainin}}
+:{{Voiced by|[[Hiroko Kasahara]]}}
+:
+
+;{{nihongo|Julie Frum|ジュリ・ブルーム|Juri Burūmu}}
+:{{Voiced by|Mika Sakenobe}}
+:
+
+;{{nihongo|June Frum|ジュネ・ブルーム|June Burūmu}}
+:{{Voiced by|[[Akiko Kobayashi (voice actress)|Akiko Kobayashi]]}}
+:
+
+====Former Member====
+
+;{{nihongo|Scene Pierce|シーン・ピアース|Shīn Piāsu}}
+:{{Voiced by|[[Kōji Yusa]]}}
+:
+
+;{{nihongo|Ivan Nyrguise|イヴァン・ニルギース|Ivan Nirugīsu}}
+:{{Voiced by|[[Kazunari Kojima]], [[Mika Itō]] (young)}}
+:
+
+;{{nihongo|Shasha|シャシャ}}
+:{{Voiced by|[[Myco (singer)|Myco]]}}
+:
+
+==List of episodes==
+{|class="wikitable" width="98%"
+|-
+! # !! Title !! Directed by !! Written by !! Storyboarded by !! Original air date
+|-
+{{Episode list
+| EpisodeNumber   = 1
+| Title           = First Battle
+| TranslitTitle   = Fāsuto batoru
+| NativeTitle     = ファースト・バトル
+| NativeTitleLangCode = ja 
+| DirectedBy      = [[Yūji Yamaguchi]]
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Yūji Yamaguchi<br>Takatsugu Kobayashi
+| OriginalAirDate = {{Start date|2004|4|5|df=y}}
+| LineColor       = 
+| ShortSummary    =
+}}
+{{Episode list
+| EpisodeNumber   = 2
+| Title           = Second Line
+| TranslitTitle   = Sekando rain
+| NativeTitle     = セカンド・ライン
+| NativeTitleLangCode = ja 
+| DirectedBy      = Yasuhiro Minami
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Yasuhito Kikuchi
+| OriginalAirDate = {{Start date|2004|4|12|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 3
+| Title           = Bordertack
+| TranslitTitle   = Bōdatakku
+| NativeTitle     = ボーダタック
+| NativeTitleLangCode = ja 
+| DirectedBy      = Susumu Yamaguchi
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Susumu Yamaguchi
+| OriginalAirDate = {{Start date|2004|4|19|df=y}}
+| LineColor       = 
+| ShortSummary    =
+}}
+{{Episode list
+| EpisodeNumber   = 4
+| Title           = Who are You
+| TranslitTitle   = Fū ā yū
+| NativeTitle     = フーアーユー
+| NativeTitleLangCode = ja 
+| DirectedBy      = Shunji Yoshida
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Masujirō Aozame
+| OriginalAirDate = {{Start date|2004|4|26|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 5
+| Title           = Visor on Stage
+| TranslitTitle   = Baizāonsutēji
+| NativeTitle     = バイザーオンステージ
+| NativeTitleLangCode = ja 
+| DirectedBy      = Toshiyuki Katō
+| WrittenBy       = Satoshi Namiki
+| Aux2            = [[Itsuro Kawasaki]]
+| OriginalAirDate = {{Start date|2004|5|3|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 6
+| Title           = Board Visor
+| TranslitTitle   = Bōdobaizā
+| NativeTitle     = ボードバイザー
+| NativeTitleLangCode = ja 
+| DirectedBy      = [[Ryouki Kamitsubo]]
+| WrittenBy       = Mushi Kōhei
+| Aux2            = [[Toshiya Shinohara]]
+| OriginalAirDate = {{Start date|2004|5|10|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 7
+| Title           = Rookies' Mission
+| TranslitTitle   = Rūkīzu misshon
+| NativeTitle     = ルーキーズ・ミッション
+| NativeTitleLangCode = ja 
+| DirectedBy      = Yoshinari Suzuki
+| WrittenBy       = [[Rika Nakase]]
+| Aux2            = Itsuro Kawasaki
+| OriginalAirDate = {{Start date|2004|5|17|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 8
+| Title           = It's My Turn
+| TranslitTitle   = Ittsu mai tān
+| NativeTitle     = イッツ・マイ・ターン
+| NativeTitleLangCode = ja 
+| DirectedBy      = Shunji Yoshida
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Shunji Yoshida
+| OriginalAirDate = {{Start date|2004|5|24|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 9
+| Title           = Green Light
+| TranslitTitle   = Gurīnraito
+| NativeTitle     = グリーンライト
+| NativeTitleLangCode = ja 
+| DirectedBy      = Yukio Okazaki
+| WrittenBy       = Mushi Kōhei
+| Aux2            = Masujirō Aozame
+| OriginalAirDate = {{Start date|2004|5|31|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 10
+| Title           = See You Again
+| TranslitTitle   = Shī yū agein
+| NativeTitle     = シー・ユー・アゲイン
+| NativeTitleLangCode = ja 
+| DirectedBy      = Teruo Satō
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Takatsugu Kobayashi
+| OriginalAirDate = {{Start date|2004|6|7|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 11
+| Title           = Confusion
+| TranslitTitle   = Konfyūjon
+| NativeTitle     = コンフュージョン
+| NativeTitleLangCode = ja 
+| DirectedBy      = Toshiyuki Katō
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Toshiyuki Katō
+| OriginalAirDate = {{Start date|2004|6|14|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 12
+| Title           = Comeback Game
+| TranslitTitle   = Kamubakku gēmu
+| NativeTitle     = カムバック・ゲーム
+| NativeTitleLangCode = ja 
+| DirectedBy      = Ryouki Kamitsubo
+| WrittenBy       = Kenji Konuta
+| Aux2            = Itsuro Kawasaki
+| OriginalAirDate = {{Start date|2004|6|21|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 13
+| Title           = Little Friends
+| TranslitTitle   = Ritoru furenzu
+| NativeTitle     = リトル・フレンズ
+| NativeTitleLangCode = ja 
+| DirectedBy      = Shunji Yoshida
+| WrittenBy       = Noboru Kimura
+| Aux2            = [[Shinji Takamatsu]]
+| OriginalAirDate = {{Start date|2004|6|28|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 14
+| Title           = Lonely Hero
+| TranslitTitle   = Ronrī hīrō
+| NativeTitle     = ロンリー・ヒーロー
+| NativeTitleLangCode = ja 
+| DirectedBy      = Keitarō Motonaga
+| WrittenBy       = Rika Nakase
+| Aux2            = Jun Takada<br>Yūji Yamaguchi
+| OriginalAirDate = {{Start date|2004|7|5|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 15
+| Title           = Lost Pride
+| TranslitTitle   = Rosuto puraido
+| NativeTitle     = ロスト・プライド
+| NativeTitleLangCode = ja 
+| DirectedBy      = Yoshinari Suzuki
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Itsuro Kawasaki
+| OriginalAirDate = {{Start date|2004|7|12|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 16
+| Title           = Nightmare
+| TranslitTitle   = Naitomea
+| NativeTitle     = ナイトメア
+| NativeTitleLangCode = ja 
+| DirectedBy      = Toshiyuki Katō
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Megumi Yamamoto
+| OriginalAirDate = {{Start date|2004|7|19|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 17
+| Title           = Take Off
+| TranslitTitle   = Teikuofu
+| NativeTitle     = テイクオフ
+| NativeTitleLangCode = ja 
+| DirectedBy      = Makoto Sokuza
+| WrittenBy       = Mushi Kōhei
+| Aux2            = Shinji Takamatsu
+| OriginalAirDate = {{Start date|2004|7|26|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 18
+| Title           = Missing Person
+| TranslitTitle   = Misshingu pāson
+| NativeTitle     = ミッシング・パーソン
+| NativeTitleLangCode = ja 
+| DirectedBy      = Noriaki Akitaya
+| WrittenBy       = Kenji Konuta
+| Aux2            = Itsuro Kawasaki
+| OriginalAirDate = {{Start date|2004|8|2|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 19
+| Title           = Gun Zaldi
+| TranslitTitle   = Gan zarudi
+| NativeTitle     = ガン・ザルディ
+| NativeTitleLangCode = ja 
+| DirectedBy      = Yoshinari Suzuki
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Masujirō Aozame
+| OriginalAirDate = {{Start date|2004|8|9|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 20
+| Title           = Reset
+| TranslitTitle   = Risetto
+| NativeTitle     = リセット
+| NativeTitleLangCode = ja 
+| DirectedBy      = Shunji Yoshida
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Megumi Yamamoto
+| OriginalAirDate = {{Start date|2004|8|16|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 21
+| Title           = The Long Way
+| TranslitTitle   = Za rongu wei
+| NativeTitle     = ザ・ロング・ウェイ
+| NativeTitleLangCode = ja 
+| DirectedBy      = Yūji Yamaguchi
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Yūji Yamaguchi
+| OriginalAirDate = {{Start date|2004|8|23|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 22
+| Title           = Double Cross
+| TranslitTitle   = Daburu kurosu
+| NativeTitle     = ダブル・クロス
+| NativeTitleLangCode = ja 
+| DirectedBy      = Masahito Otani
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Teruo Satō<br>Yūji Yamaguchi
+| OriginalAirDate = {{Start date|2004|8|30|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 23
+| Title           = Paf Told Me
+| TranslitTitle   = Pafu tōrudo mī
+| NativeTitle     = パフ・トールド・ミー
+| NativeTitleLangCode = ja 
+| DirectedBy      = Toshiyuki Katō
+| WrittenBy       = Rika Nakase
+| Aux2            = Toshiyuki Katō
+| OriginalAirDate = {{Start date|2004|9|6|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 24
+| Title           = Claymore
+| TranslitTitle   = Kureimoa
+| NativeTitle     = クレイモア
+| NativeTitleLangCode = ja 
+| DirectedBy      = Ryōji Fujiwara
+| WrittenBy       = Mushi Kōhei
+| Aux2            = Itsuro Kawasaki
+| OriginalAirDate = {{Start date|2004|9|13|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 25
+| Title           = Underground
+| TranslitTitle   = Andāguraundo
+| NativeTitle     = アンダーグラウンド
+| NativeTitleLangCode = ja 
+| DirectedBy      = Shunji Yoshida
+| WrittenBy       = Kenji Konuta
+| Aux2            = Ryōji Fujiwara
+| OriginalAirDate = {{Start date|2004|9|20|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 26
+| Title           = Operation Sissy
+| TranslitTitle   = Operēshon shishī
+| NativeTitle     = オペレーション・シシー
+| NativeTitleLangCode = ja 
+| DirectedBy      = Yoshinari Suzuki
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Yoshinari Suzuki<br>Megumi Yamamoto
+| OriginalAirDate = {{Start date|2004|9|27|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 27
+| Title           = Neo Cross Visor
+| TranslitTitle   = Neokurosubaizā
+| NativeTitle     = ネオクロスバイザー
+| NativeTitleLangCode = ja 
+| DirectedBy      = Masahito Otani
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Yukihiro Matsushita<br>Yūji Yamaguchi
+| OriginalAirDate = {{Start date|2004|10|4|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 28
+| Title           = Night Syndrome
+| TranslitTitle   = Naito shindorōmu
+| NativeTitle     = ナイト・シンドローム
+| NativeTitleLangCode = ja 
+| DirectedBy      = Wataru Sakaibashi
+| WrittenBy       = Rika Nakase
+| Aux2            = Ryōji Fujiwara
+| OriginalAirDate = {{Start date|2004|10|11|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 29
+| Title           = Old Mechanic
+| TranslitTitle   = Ōrudo mekanikku
+| NativeTitle     = オールド・メカニック
+| NativeTitleLangCode = ja 
+| DirectedBy      = Yukihiro Matsushita
+| WrittenBy       = Mushi Kōhei
+| Aux2            = Itsuro Kawasaki
+| OriginalAirDate = {{Start date|2004|10|18|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 30
+| Title           = Confession
+| TranslitTitle   = Konfesshon
+| NativeTitle     = コンフェッション
+| NativeTitleLangCode = ja 
+| DirectedBy      = Shunji Yoshida
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Yukihiro Matsushita<br>Ryōji Fujiwara
+| OriginalAirDate = {{Start date|2004|10|25|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 31
+| Title           = Miss You
+| TranslitTitle   = Misu yū
+| NativeTitle     = ミス・ユー
+| NativeTitleLangCode = ja 
+| DirectedBy      = Toshiyuki Katō
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Toshiyuki Katō
+| OriginalAirDate = {{Start date|2004|11|1|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 32
+| Title           = Break Away
+| TranslitTitle   = Bureiku awei
+| NativeTitle     = ブレイク・アウェイ
+| NativeTitleLangCode = ja 
+| DirectedBy      = Hisakazu Ishikawa
+| WrittenBy       = Kenji Konuta
+| Aux2            = Yoshihiro Takamoto
+| OriginalAirDate = {{Start date|2004|11|8|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 33
+| Title           = Coming Back
+| TranslitTitle   = Kamingu bakku
+| NativeTitle     = カミング・バック
+| NativeTitleLangCode = ja 
+| DirectedBy      = Isao Takayama
+| WrittenBy       = Toshifumi Kawase
+| Aux2            = Ryōji Fujiwara
+| OriginalAirDate = {{Start date|2004|11|15|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 34
+| Title           = Who is Spy
+| TranslitTitle   = Fū Izu supai
+| NativeTitle     = フー・イズ・スパイ
+| NativeTitleLangCode = ja 
+| DirectedBy      = Shunji Yoshida
+| WrittenBy       = Rika Nakase
+| Aux2            = Hibari Nakayama
+| OriginalAirDate = {{Start date|2004|11|22|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 35
+| Title           = Second Piece
+| TranslitTitle   = Sekando pīsu
+| NativeTitle     = セカンド・ピース
+| NativeTitleLangCode = ja 
+| DirectedBy      = Yoshinari Suzuki
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Ryōji Fujiwara<br>Yoshinari Suzuki
+| OriginalAirDate = {{Start date|2004|11|29|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 36
+| Title           = Rowdy Spirits
+| TranslitTitle   = Rōdisupirittsu
+| NativeTitle     = ローディスピリッツ
+| NativeTitleLangCode = ja 
+| DirectedBy      = Masahito Otani
+| WrittenBy       = Mushi Kōhei
+| Aux2            = Ryōji Fujiwara
+| OriginalAirDate = {{Start date|2004|12|6|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 37
+| Title           = Invitation
+| TranslitTitle   = Inviteishon
+| NativeTitle     = インヴィテイション
+| NativeTitleLangCode = ja 
+| DirectedBy      = Akira Tsuchiya
+| WrittenBy       = Kenji Konuta
+| Aux2            = Itsuro Kawasaki
+| OriginalAirDate = {{Start date|2004|12|13|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 38
+| Title           = End of Meuron
+| TranslitTitle   = Endo obu Mūron
+| NativeTitle     = エンド・オブ・ムーロン
+| NativeTitleLangCode = ja 
+| DirectedBy      = Yukihiro Matsushita
+| WrittenBy       = Toshifumi Kawase
+| Aux2            = Yukihiro Matsushita<br>Ryōji Fujiwara<br>Yūji Yamaguchi
+| OriginalAirDate = {{Start date|2004|12|20|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 39
+| Title           = Sacrifice
+| TranslitTitle   = Sakurifaisu
+| NativeTitle     = サクリファイス
+| NativeTitleLangCode = ja 
+| DirectedBy      = Shunji Yoshida
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Heijūrō Kamiya
+| OriginalAirDate = {{Start date|2004|12|27|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 40
+| Title           = Lady Supporter
+| TranslitTitle   = Redi sapōtā
+| NativeTitle     = レディ・サポーター
+| NativeTitleLangCode = ja 
+| DirectedBy      = Masahito Otani
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Yukihiro Matsushita
+| OriginalAirDate = {{Start date|2005|1|10|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 41
+| Title           = Battle Debut
+| TranslitTitle   = Batoru debyū
+| NativeTitle     = バトル・デビュー
+| NativeTitleLangCode = ja 
+| DirectedBy      = Yoshinari Suzuki
+| WrittenBy       = Kenji Konuta
+| Aux2            = Hibari Nakayama
+| OriginalAirDate = {{Start date|2005|1|17|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 42
+| Title           = Lonely Fighter
+| TranslitTitle   = Ronrī faitā
+| NativeTitle     = ロンリー・ファイター
+| NativeTitleLangCode = ja 
+| DirectedBy      = Toshiyuki Katō
+| WrittenBy       = Rika Nakase
+| Aux2            = Toshiyuki Katō
+| OriginalAirDate = {{Start date|2005|1|24|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 43
+| Title           = Return
+| TranslitTitle   = Ritān
+| NativeTitle     = リターン
+| NativeTitleLangCode = ja 
+| DirectedBy      = Michita Shiraishi
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Itsuro Kawasaki
+| OriginalAirDate = {{Start date|2005|1|31|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 44
+| Title           = Big Target
+| TranslitTitle   = Biggu tāgetto
+| NativeTitle     = ビッグ・ターゲット
+| NativeTitleLangCode = ja 
+| DirectedBy      = Tomoko Hiramuki
+| WrittenBy       = Mushi Kōhei
+| Aux2            = Ryōji Fujiwara
+| OriginalAirDate = {{Start date|2005|2|7|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 45
+| Title           = Old Castle
+| TranslitTitle   = Ōrudo kyassuru
+| NativeTitle     = オールド・キャッスル
+| NativeTitleLangCode = ja 
+| DirectedBy      = Teruo Satō
+| WrittenBy       = Kenji Konuta
+| Aux2            = Nobuhiro Aoyanagi<br>Yūji Yamaguchi
+| OriginalAirDate = {{Start date|2005|2|14|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 46
+| Title           = Decision
+| TranslitTitle   = Dishijon
+| NativeTitle     = ディシジョン
+| NativeTitleLangCode = ja 
+| DirectedBy      = Shunji Yoshida
+| WrittenBy       = Rika Nakase
+| Aux2            = Ryōji Fujiwara
+| OriginalAirDate = {{Start date|2005|2|21|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 47
+| Title           = Forgiven
+| TranslitTitle   = Fōgibun
+| NativeTitle     = フォーギブン
+| NativeTitleLangCode = ja 
+| DirectedBy      = Toshiyuki Katō
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Toshiyuki Katō
+| OriginalAirDate = {{Start date|2005|2|28|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 48
+| Title           = Disappear
+| TranslitTitle   = Disuapia
+| NativeTitle     = ディスアピア
+| NativeTitleLangCode = ja 
+| DirectedBy      = Masahito Otani
+| WrittenBy       = Toshifumi Kawase
+| Aux2            = Heijūrō Kamiya<br>Yūji Yamaguchi
+| OriginalAirDate = {{Start date|2005|3|7|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 49
+| Title           = Fulzeam
+| TranslitTitle   = Furuzeamu
+| NativeTitle     = フルゼアム
+| NativeTitleLangCode = ja 
+| DirectedBy      = Yoshinari Suzuki
+| WrittenBy       = Rika Nakase
+| Aux2            = Yoshinari Suzuki
+| OriginalAirDate = {{Start date|2005|3|14|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 50
+| Title           = Start Again
+| TranslitTitle   = Sutāto agein
+| NativeTitle     = スタート・アゲイン
+| NativeTitleLangCode = ja 
+| DirectedBy      = Michita Shiraishi
+| WrittenBy       = Rika Nakase
+| Aux2            = Hibari Nakayama
+| OriginalAirDate = {{Start date|2005|3|21|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+{{Episode list
+| EpisodeNumber   = 51
+| Title           = Final Stage
+| TranslitTitle   = Fainaru sutēji
+| NativeTitle     = ファイナル・ステージ
+| NativeTitleLangCode = ja 
+| DirectedBy      = Shunji Yoshida
+| WrittenBy       = Satoshi Namiki
+| Aux2            = Itsuro Kawasaki<br>Yūji Yamaguchi
+| OriginalAirDate = {{Start date|2005|3|28|df=y}}
+| ShortSummary    = 
+| LineColor       = 
+}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|https://www.tv-tokyo.co.jp/anime/amdriver/|Official TV-Tokyo website}} {{in lang|ja}}
+* {{Anime News Network|anime|3748}}
+
+{{Studio Deen}}
+{{Yūji Yamaguchi}}
+
+[[Category:2004 anime television series debuts]]
+[[Category:2004 manga]]
+[[Category:Mecha anime and manga]]
+[[Category:Studio Deen]]
+[[Category:TV Tokyo original programming]]
+[[Category:Anime with original screenplays]]
