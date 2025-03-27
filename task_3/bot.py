@@ -22,7 +22,7 @@ for page in list_page.linkedPages(namespaces=[0], follow_redirects=True, content
                        page.text, re.I)):
         pos = m.end() + 1
     # After DISPLAYTITLE, if present
-    elif (m := re.search(r'\{\{(?:DISPLAYTITLE|Lowercase title|Italic title)', page.text, re.I)):
+    elif (m := re.search(r'\{\{(?:DISPLAYTITLE:.*?|Lowercase title|Italic title)\}\}', page.text, re.I)):
         pos = m.end()
     # Before English variety / date format, if present
     elif (m := re.search(r'\{\{use (?:[dmy]{3} dates|[A-Z][a-z]+ English).*?\}\}', page.text, re.I)):
