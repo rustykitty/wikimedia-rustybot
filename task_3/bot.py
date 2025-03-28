@@ -37,4 +37,4 @@ for page in list_page.linkedPages(namespaces=[0], follow_redirects=True, content
 
     page.text = page.text[:pos] + '{{Convert to Episode table}}\n' + page.text[pos:]
 
-    page.save(summary='Tagging page with {{Template:Convert to Episode table|Convert to Episode table}} (Task 2)')
+    page.save(summary='Tagging page with [[Template:Convert to Episode table|Convert to Episode table]] (Task 3)')
