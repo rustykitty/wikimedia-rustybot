@@ -10,17 +10,17 @@ list_page = pywikibot.Page(site, 'User:Alex 21/sandbox/No episode table')
 
 for page in list_page.linkedPages(namespaces=[0], follow_redirects=True, content=True, total=None):
 
-    m: re.Match = None # for type hinting purposes only
+    m: re.Match
 
-    # MOS:SECTIONORDER
-
+    # Per MOS:SECTIONORDER
+    
     # Group in multiple issues template
-    if (m := re.search(r'\{\{multiple issues\|\n', page.text, re.I)):
+    if (m := re.search(r'\{\{multiple issues\|\n?', page.text, re.I)):
         pos = m.end()
     # After hatnote
-    elif (m := re.search(r'\{\{(?:For(?:-text|-multi)?|Other uses(?: of)?|About(?:-distinguish(?:-text))?|Redirect(?:2|-multi|-several)|Distinguish)\|.*?\}\}', 
+    elif (m := re.search(r'\{\{(?:For(?:-text|-multi)?|Other uses(?: of)?|About(?:-distinguish(?:-text))?|Redirect(?:2|-multi|-several)|Distinguish)\|.*?\}\}\n?', 
                        page.text, re.I)):
-        pos = m.end() + 1
+        pos = m.end()
     # After DISPLAYTITLE, if present
     elif (m := re.search(r'\{\{(?:DISPLAYTITLE:.*?|Lowercase title|Italic title)\}\}', page.text, re.I)):
         pos = m.end()
@@ -28,8 +28,8 @@ for page in list_page.linkedPages(namespaces=[0], follow_redirects=True, content
     elif (m := re.search(r'\{\{use (?:[dmy]{3} dates|[A-Z][a-z]+ English).*?\}\}', page.text, re.I)):
         pos = m.start()
     # After short description, if present
-    elif (m := re.search(r'\{\{short description\|.*?\}\}', page.text, re.I)):
-        pos = m.end() + 1
+    elif (m := re.search(r'\{\{short description\|.*?\}\}\n?', page.text, re.I)):
+        pos = m.end()
     else:
         pos = 0
 
