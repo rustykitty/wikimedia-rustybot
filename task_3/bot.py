@@ -8,16 +8,18 @@ site = pywikibot.Site('en', 'wikipedia')
 
 list_page = pywikibot.Page(site, 'User:Alex 21/sandbox/No episode table')
 
-for page in list_page.linkedPages(namespaces=[0], follow_redirects=True, content=True, total=None):
+for page in list_page.linkedPages(
+    namespaces=[0], follow_redirects=True, content=True, total=None
+    ):
 
     m: re.Match
 
     # Per MOS:SECTIONORDER
     
-    # Group in multiple issues template
+    # Group in multiple issues template, if present
     if (m := re.search(r'\{\{multiple issues\|\n?', page.text, re.I)):
         pos = m.end()
-    # After hatnote
+    # After hatnote, if present
     elif (m := re.search(r'\{\{(?:For(?:-text|-multi)?|Other uses(?: of)?|About(?:-distinguish(?:-text))?|Redirect(?:2|-multi|-several)|Distinguish)\|.*?\}\}\n?', 
                        page.text, re.I)):
         pos = m.end()
@@ -30,6 +32,7 @@ for page in list_page.linkedPages(namespaces=[0], follow_redirects=True, content
     # After short description, if present
     elif (m := re.search(r'\{\{short description\|.*?\}\}\n?', page.text, re.I)):
         pos = m.end()
+    # Else, set pos to beginning of page
     else:
         pos = 0
 
