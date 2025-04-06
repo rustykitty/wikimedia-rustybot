@@ -8,6 +8,16 @@ site = pywikibot.Site('en', 'wikipedia')
 
 list_page = pywikibot.Page(site, 'User:Alex 21/sandbox/No episode table')
 
+multipleIssues, hatnote, displayTitle, engVar, shortDesc = (
+    re.compile(p, re.I) for p in (
+        r'\{\{multiple issues\|\n?',
+        r'\{\{(?:For(?:-text|-multi)?|Other uses(?: of)?|About(?:-distinguish(?:-text))?|Redirect(?:2|-multi|-several)|Distinguish)\|.*?\}\}\n?',
+        r'\{\{(?:DISPLAYTITLE:.*?|Lowercase title|Italic title)\}\}',
+        r'\{\{use (?:[dmy]{3} dates|[A-Z][a-z]+ English).*?\}\}',
+        r'\{\{short description\|.*?\}\}\n?'
+    )
+)
+
 for page in list_page.linkedPages(
     namespaces=[0], follow_redirects=True, content=True, total=None
     ):
@@ -17,20 +27,19 @@ for page in list_page.linkedPages(
     # Per MOS:SECTIONORDER
     
     # Group in multiple issues template, if present
-    if (m := re.search(r'\{\{multiple issues\|\n?', page.text, re.I)):
+    if (m := multipleIssues.search(page.text)):
         pos = m.end()
     # After hatnote, if present
-    elif (m := re.search(r'\{\{(?:For(?:-text|-multi)?|Other uses(?: of)?|About(?:-distinguish(?:-text))?|Redirect(?:2|-multi|-several)|Distinguish)\|.*?\}\}\n?', 
-                       page.text, re.I)):
+    elif (m := hatnote.search(page.text)):
         pos = m.end()
     # After DISPLAYTITLE, if present
-    elif (m := re.search(r'\{\{(?:DISPLAYTITLE:.*?|Lowercase title|Italic title)\}\}', page.text, re.I)):
+    elif (m := displayTitle.search(page.text)):
         pos = m.end()
     # Before English variety / date format, if present
-    elif (m := re.search(r'\{\{use (?:[dmy]{3} dates|[A-Z][a-z]+ English).*?\}\}', page.text, re.I)):
+    elif (m := engVar.search(page.text)):
         pos = m.start()
     # After short description, if present
-    elif (m := re.search(r'\{\{short description\|.*?\}\}\n?', page.text, re.I)):
+    elif (m := shortDesc.search(page.text)):
         pos = m.end()
     # Else, set pos to beginning of page
     else:
