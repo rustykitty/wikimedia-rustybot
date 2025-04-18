@@ -6,7 +6,7 @@ import re
 
 import pywikibot
 
-PATTERN = re.compile(r"\{\{AfC submission\|(d\||\|\||)ts=(?:(\d{2}):(\d{2}), (\d{1,2}) (January|February|March|April|May|June|July|August|September|October|November|December) (\d{4}) \(UTC\))(?:\|\w+=[^|}]+)*?\}\}", flags=re.I)
+PATTERN = re.compile(r"\{\{AfC submission\|(d\||\|\|)?ts=(?:(\d{2}):(\d{2}), (\d{1,2}) (January|February|March|April|May|June|July|August|September|October|November|December) (\d{4}) \(UTC\))(?:\|\w+=[^|}]+)*?\}\}", flags=re.I)
 # {{AFC submission|d|ts=00:00, 1 January 1970 (UTC)}}
 # {{AfC submission|||ts=20250413180647}}
 
