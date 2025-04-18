@@ -1,6 +1,0 @@
-#LWP-Cookies-2.0
-Set-Cookie3: wofwiki_session=nps1n5j2euku01fc1jm0nm6e210jr73r; path="/"; domain="wingsoffire.wiki"; path_spec; secure; discard; HttpOnly=None; version=0
-Set-Cookie3: wofwiki_BPsession=ig66o6sqtmk9tairvg6rj82jdfh28l9q; path="/"; domain="wingsoffire.wiki"; path_spec; secure; discard; HttpOnly=None; version=0
-Set-Cookie3: loginnotify_prevlogins="2025-pie2rk-59no39vfh77lrqe8hnq0txvs4ji50a4"; path="/"; domain="wingsoffire.wiki"; path_spec; secure; expires="2025-07-04 22:58:04Z"; HttpOnly=None; version=0
-Set-Cookie3: cpPosIndex="2%401736117884%234e4fc27a902679202b174b07b2bba197"; path="/"; domain="wingsoffire.wiki"; path_spec; secure; expires="2025-01-05 22:58:14Z"; HttpOnly=None; version=0
-Set-Cookie3: UseDC=master; path="/"; domain="wingsoffire.wiki"; path_spec; secure; expires="2025-01-05 22:58:14Z"; HttpOnly=None; version=0
