@@ -213,3 +213,4 @@ throttle.ctrl
 user-config.py
 logs/
 user-password.py
+**/pywikibot*.lwp
