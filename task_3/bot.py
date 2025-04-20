@@ -4,9 +4,27 @@ import pywikibot
 
 from os.path import exists
 
+from os import system
+from tempfile import TemporaryDirectory
+
 site = pywikibot.Site('en', 'wikipedia')
 
 list_page = pywikibot.Page(site, 'User:Alex 21/sandbox/No episode table')
+
+PAGE_LIMIT = 50
+
+page_count = 0
+
+def confirm(a, b, callback):
+    td = TemporaryDirectory()
+    open(td.name + '/.a', 'w').write(a)
+    open(td.name + '/.b', 'w').write(b)
+    system('code --diff ' + td.name + '/.a ' + td.name + '/.b')
+    x = input()
+    if x == 'y':
+        callback()
+    else:
+        print('Aborting')
 
 multipleIssues, hatnote, displayTitle, engVar, shortDesc = (
     re.compile(p, re.I) for p in (
@@ -21,6 +39,10 @@ multipleIssues, hatnote, displayTitle, engVar, shortDesc = (
 for page in list_page.linkedPages(
     namespaces=[0], follow_redirects=True, content=True, total=None
     ):
+
+    original_text = page.text
+
+    page: pywikibot.Page
 
     m: re.Match
 
@@ -49,4 +71,11 @@ for page in list_page.linkedPages(
 
     page.text = page.text[:pos] + '{{Convert to Episode table}}\n' + page.text[pos:]
 
-    page.save(summary='Tagging page with {{[[Template:Convert to Episode table|Convert to Episode table]]}} (Task 3)')
+    # confirm(original_text, page.text, lambda: page.save(summary='Tagging page with {{[[Template:Convert to Episode table|Convert to Episode table]]}} (Task 3)'))
+    page.save(summary='Tagging page with {{[[Template:Convert to Episode table|Convert to Episode table]]}} (Task 3, TRIAL)', minor=True, bot=True)
+
+    page_count += 1
+
+    if PAGE_LIMIT > 0 and page_count >= PAGE_LIMIT:
+        print('Page limit reached')
+        break
