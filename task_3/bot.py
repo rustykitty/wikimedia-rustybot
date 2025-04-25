@@ -40,6 +40,16 @@ for page in list_page.linkedPages(
     namespaces=[0], follow_redirects=True, content=True, total=None
     ):
 
+    if PAGE_LIMIT > 0 and page_count >= PAGE_LIMIT:
+        print('Page limit reached')
+        break
+
+    templates = page.templates()
+
+    if "Convert to Episode table" in (page.title(with_ns=False) for page in templates):
+        print('Already tagged')
+        page_count += 1
+
     original_text = page.text
 
     page: pywikibot.Page
@@ -75,7 +85,3 @@ for page in list_page.linkedPages(
     page.save(summary='Tagging page with {{[[Template:Convert to Episode table|Convert to Episode table]]}} (Task 3, TRIAL)', minor=True, bot=True)
 
     page_count += 1
-
-    if PAGE_LIMIT > 0 and page_count >= PAGE_LIMIT:
-        print('Page limit reached')
-        break
