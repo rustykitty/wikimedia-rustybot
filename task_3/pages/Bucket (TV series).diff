@@ -1,0 +1,11 @@
+--- original
+
++++ new
+
+@@ -1,4 +1,4 @@
+
+-{{Use dmy dates|date=February 2020}}
++{{Convert to Episode table}}{{Use dmy dates|date=February 2020}}
+ {{Use British English|date=May 2017}}
+ {{Infobox television
+ | image        = Bucket_TV_Show_Title_Card.jpg

@@ -1,0 +1,14 @@
+--- original
+
++++ new
+
+@@ -1,7 +1,7 @@
+
+ {{short description|American animated television series}}
+ {{distinguish|Cops (TV program)}}
+ {{Redirect|CyberCOPS|the Japanese TV series|Dennou Keisatsu Cybercop}}
+-{{Use mdy dates|date=March 2025}}
++{{Convert to Episode table}}{{Use mdy dates|date=March 2025}}
+ {{Infobox television
+ | image = C.O.P.S. (TV series) logo.png
+ | caption = 

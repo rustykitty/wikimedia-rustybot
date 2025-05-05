@@ -1,25 +1,27 @@
 import re
+import os
+
+THIS_DIR = os.path.dirname(__file__)
 
 import pywikibot
+import mwparserfromhell
+import pywikibot.pagegenerators
 
 site = pywikibot.Site('en', 'wikipedia')
 
 list_page = pywikibot.Page(site, 'User:Alex 21/sandbox/No episode table')
 
-PAGE_LIMIT = 50
+PAGE_LIMIT = 150
 
 page_count = 0
 
-# regexes
-multipleIssues, hatnote, displayTitle, engVar, shortDesc = (
-    re.compile(p, re.I) for p in (
-        r'\{\{multiple issues\|\n?',
-        r'\{\{(?:For(?:-text|-multi)?|Other uses(?: of)?|About(?:-distinguish(?:-text))?|Redirect(?:2|-multi|-several)|Distinguish)\|.*?\}\}\n?',
-        r'\{\{(?:DISPLAYTITLE:.*?|Lowercase title|Italic title)\}\}',
-        r'\{\{use (?:[dmy]{3} dates|[A-Z][a-z]+ English).*?\}\}',
-        r'\{\{short description\|.*?\}\}\n?'
-    )
-)
+def index_or_none(a, b):
+    try:
+        return a.index(b)
+    except:
+        return None
+
+hatnote_templates = open(os.path.join(THIS_DIR, 'hatnote_templates.txt')).read().rstrip().split('\n')
 
 for page in list_page.linkedPages(
     namespaces=[0], follow_redirects=True, content=True, total=None
@@ -39,33 +41,40 @@ for page in list_page.linkedPages(
 
     page: pywikibot.Page
 
-    m: re.Match
-
-    # Per MOS:SECTIONORDER
+    # MOS:SECTIONORDER
     
-    # Group in multiple issues template, if present
-    if (m := multipleIssues.search(page.text)):
-        pos = m.end()
+    parsed_text = mwparserfromhell.parse(page.text)
+    if (m := next((t for t in parsed_text.ifilter_templates() if t.name.lower() == 'multiple issues'), None)):
+        m.get('1').value.append('{{Convert to Episode table}}')
     # After hatnote, if present
-    elif (m := hatnote.search(page.text)):
-        pos = m.end()
+    elif (m := next((t.name.lower() in hatnote_templates for t in parsed_text.ifilter_templates()), None)):
+        parsed_text.insert_after(m, '{{Convert to Episode table}}')
     # After DISPLAYTITLE, if present
-    elif (m := displayTitle.search(page.text)):
-        pos = m.end()
+    elif (m := next(
+            (t 
+            for t in parsed_text.ifilter_templates() if (t.name.lower() in ('displaytitle', 'italic title', 'lowercase title'))
+    ), None)):
+        parsed_text.insert_after(m, '{{Convert to Episode table}}')
     # Before English variety / date format, if present
-    elif (m := engVar.search(page.text)):
-        pos = m.start()
+    elif (m := next(
+            (t
+            for t in parsed_text.ifilter_templates()
+            if (re.search(r'[u]se [dmy]{3} dates|[u]se [W][w]+ English', t.name.lower()))), None)):
+        parsed_text.insert_before(m, '{{Convert to Episode table}}')
     # After short description, if present
-    elif (m := shortDesc.search(page.text)):
-        pos = m.end()
-    # Else, set pos to beginning of page
+    elif (m := next((t for t in parsed_text.ifilter_templates() if t.name.lower() == 'short description'), None)):
+        parsed_text.insert_after(m, '{{Convert to Episode table}}')
     else:
-        pos = 0
+        parsed_text.insert(0, '{{Convert to Episode table}}')
 
-    pos = min(max(pos, 0), len(page.text)) # clamp position
+    page.text = str(parsed_text)
+    # page.save(summary='Tagging page with {{[[Template:Convert to Episode table|Convert to Episode table]]}} (Task 3, TRIAL)', minor=True, bot=True)
 
-    page.text = page.text[:pos] + '{{Convert to Episode table}}\n' + page.text[pos:]
+    import difflib
+    diff = difflib.unified_diff(original_text.split('\n'), page.text.split('\n'), lineterm='\n', fromfile='original', tofile='new')
 
-    page.save(summary='Tagging page with {{[[Template:Convert to Episode table|Convert to Episode table]]}} (Task 3, TRIAL)', minor=True, bot=True)
+    # dump
+    if page_count > 100:
+        open(os.path.join(THIS_DIR, 'pages/' + page.title() + '.diff'), 'w').write('\n'.join(diff))
 
     page_count += 1

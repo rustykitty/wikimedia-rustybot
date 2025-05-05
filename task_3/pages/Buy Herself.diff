@@ -1,0 +1,11 @@
+--- original
+
++++ new
+
+@@ -1,4 +1,4 @@
+
+-{{Use mdy dates|date=April 2018}}
++{{Convert to Episode table}}{{Use mdy dates|date=April 2018}}
+ {{Infobox television
+ | genre       = Real estate <br />Reality television
+ | network     = [[HGTV Canada]]

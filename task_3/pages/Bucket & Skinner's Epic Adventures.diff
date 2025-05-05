@@ -1,0 +1,11 @@
+--- original
+
++++ new
+
+@@ -1,4 +1,4 @@
+
+-{{Use mdy dates|date=March 2025}}
++{{Convert to Episode table}}{{Use mdy dates|date=March 2025}}
+ {{Infobox television
+ | image                = Bucket & Skinner.jpg
+ | caption              =
