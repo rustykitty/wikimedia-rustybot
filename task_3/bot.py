@@ -11,7 +11,7 @@ site = pywikibot.Site('en', 'wikipedia')
 
 list_page = pywikibot.Page(site, 'User:Alex 21/sandbox/No episode table')
 
-PAGE_LIMIT = 150
+PAGE_LIMIT = 50
 
 page_count = 0
 
@@ -27,15 +27,16 @@ for page in list_page.linkedPages(
     namespaces=[0], follow_redirects=True, content=True, total=None
     ):
 
-    if PAGE_LIMIT > 0 and page_count >= PAGE_LIMIT:
-        print('Page limit reached')
-        break
-
     templates = page.templates()
 
     if "Convert to Episode table" in (page.title(with_ns=False) for page in templates):
         print('Already tagged')
         page_count += 1
+        continue
+
+    if PAGE_LIMIT > 0 and page_count >= PAGE_LIMIT:
+        print('Page limit reached')
+        break
 
     original_text = page.text
 
@@ -68,13 +69,13 @@ for page in list_page.linkedPages(
         parsed_text.insert(0, '{{Convert to Episode table}}')
 
     page.text = str(parsed_text)
-    # page.save(summary='Tagging page with {{[[Template:Convert to Episode table|Convert to Episode table]]}} (Task 3, TRIAL)', minor=True, bot=True)
+    page.save(summary='Tagging page with {{[[Template:Convert to Episode table|Convert to Episode table]]}} (Task 3, TRIAL)', minor=True, bot=True)
 
-    import difflib
-    diff = difflib.unified_diff(original_text.split('\n'), page.text.split('\n'), lineterm='\n', fromfile='original', tofile='new')
+    # import difflib
+    # diff = difflib.unified_diff(original_text.split('\n'), page.text.split('\n'), lineterm='\n', fromfile='original', tofile='new')
 
-    # dump
-    if page_count > 100:
-        open(os.path.join(THIS_DIR, 'pages/' + page.title() + '.diff'), 'w').write('\n'.join(diff))
+    # # dump
+    # if page_count > 100:
+    #     open(os.path.join(THIS_DIR, 'pages/' + page.title() + '.diff'), 'w').write('\n'.join(diff))
 
     page_count += 1
