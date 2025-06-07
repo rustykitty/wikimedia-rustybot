@@ -11,7 +11,7 @@ site = pywikibot.Site('en', 'wikipedia')
 
 list_page = pywikibot.Page(site, 'User:Alex 21/sandbox/No episode table')
 
-PAGE_LIMIT = 50
+PAGE_LIMIT = 49
 
 page_count = 0
 
@@ -31,7 +31,6 @@ for page in list_page.linkedPages(
 
     if "Convert to Episode table" in (page.title(with_ns=False) for page in templates):
         print('Already tagged')
-        page_count += 1
         continue
 
     if PAGE_LIMIT > 0 and page_count >= PAGE_LIMIT:
