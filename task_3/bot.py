@@ -1,11 +1,8 @@
 import re
 import os
 
-THIS_DIR = os.path.dirname(__file__)
-
 import pywikibot
 import mwparserfromhell
-import pywikibot.pagegenerators
 
 site = pywikibot.Site('en', 'wikipedia')
 
@@ -21,7 +18,7 @@ def index_or_none(a, b):
     except:
         return None
 
-hatnote_templates = open(os.path.join(THIS_DIR, 'hatnote_templates.txt')).read().rstrip().split('\n')
+hatnote_templates = open(os.path.join(os.path.dirname(__file__), 'hatnote_templates.txt')).read().rstrip().split('\n')
 
 for page in list_page.linkedPages(
     namespaces=[0], follow_redirects=True, content=True, total=None
@@ -69,12 +66,5 @@ for page in list_page.linkedPages(
 
     page.text = str(parsed_text)
     page.save(summary='Tagging page with {{[[Template:Convert to Episode table|Convert to Episode table]]}} (Task 3, TRIAL)', minor=True, bot=True)
-
-    # import difflib
-    # diff = difflib.unified_diff(original_text.split('\n'), page.text.split('\n'), lineterm='\n', fromfile='original', tofile='new')
-
-    # # dump
-    # if page_count > 100:
-    #     open(os.path.join(THIS_DIR, 'pages/' + page.title() + '.diff'), 'w').write('\n'.join(diff))
 
     page_count += 1
